@@ -31,7 +31,6 @@ For exploring some more funtranslations api - https://funtranslations.com/api/
 
 Here is the screenshot of UI made for the Minion Speak App
 
-
 ![This is an image](https://raw.githubusercontent.com/gavandivya/neogCamp-Minion-banana-talk/main/images/minionspeak.png)
 
 
