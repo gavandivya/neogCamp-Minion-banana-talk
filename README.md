@@ -15,19 +15,19 @@ Logic - app.js
 
 - Javascript
 
-API used - https://api.funtranslations.com/translate/minion.json
+**API used** - https://api.funtranslations.com/translate/minion.json
 
-Hosted on - https://www.netlify.com/ (Netlify)
+**Hosted on -** https://www.netlify.com/ (Netlify)
 
-Preview Demo -  https://gavandivya-miniontalk.netlify.app/
+**Preview Demo -**  https://gavandivya-miniontalk.netlify.app/
 
 you can add your own favicon using <link> in .html
 
 <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
 
-For generating favicon from any image of choice I used https://www.favicon-generator.org/
+**For generating favicon from any image of choice I used https://www.favicon-generator.org/**
 
-For exploring some more funtranslations api - https://funtranslations.com/api/
+**For exploring some more funtranslations api - https://funtranslations.com/api/**
 
 Here is the screenshot of UI made for the Minion Speak App
 
