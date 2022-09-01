@@ -1,8 +1,8 @@
 # neogCamp-Minion-banana-talk
 https://gavandivya-miniontalk.netlify.app
 
-markSix
-Project: Minions Speak App
+**markSix
+Project: Minions Speak App**
 
 The repository contains code for converting English to Minion language
 UI - index.html
